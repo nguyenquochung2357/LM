@@ -1,0 +1,30 @@
+#btn {
+border-radius: 15px 15px;
+border-radius: 15px 15px 15px;
+border-radius: 15px 15px 15px;
+-moz-border-radius: 15px; /*Firefox*/
+-webkit-border-radius: 15px;  /*Chrome và Safary*/
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+display: inline;
+    font-size: 16px;
+   margin-top: 5%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  #btn:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  #jk:hover{
+    color: #008CBA;
+}
+.navigation-clean-button .navbar-brand {
+  font-weight: bold;
+  color: inherit;
+}
+
