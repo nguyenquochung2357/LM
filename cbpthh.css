@@ -7,6 +7,7 @@ body{
     -webkit-user-select: none; /* Chrome, Safari, and Opera */
     -webkit-touch-callout: none; /* Disable Android and iOS callouts*/ext;
     background-size: 100%;
+    background-image: url(./image/background.png);
 }
 h1{
 font-family: Tahoma;
