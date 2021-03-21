@@ -42,9 +42,14 @@ border-radius: 15px 15px 15px;
 
 }
 #tk{
+    border-radius: 10px;
+border-radius: 10px 10px;
+border-radius: 10px 10px 10px;
+border-radius: 10px 10px 10px;
+    border: 2px solid #008CBA;
+
     background-color: white; 
     color: #008CBA; 
-    border: 2px solid #008CBA;
 }
 #tk:hover{
     color: #fff;
